@@ -1,0 +1,3 @@
+express é um conjunto de codigo pequeno.
+
+npx serve para executar  um executavel instalado dentro do projeto.
